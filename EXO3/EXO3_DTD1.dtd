@@ -1,0 +1,7 @@
+<!ELEMENT ex3 (continent+)>
+
+<!ELEMENT continent (country+)>
+<!ATTLIST continent name CDATA #REQUIRED>
+
+<!ELEMENT country EMPTY>
+<!ATTLIST country name CDATA population CDATA #REQUIRED>

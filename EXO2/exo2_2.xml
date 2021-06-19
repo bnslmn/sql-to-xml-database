@@ -1,0 +1,2833 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE ex2 SYSTEM "exo2_2.dtd">
+<ex2>
+  <country name="Afghanistan">
+    <geo>
+      <mountain name="Tirich Mir" height="7690"/>
+      <desert name="Dascht-e-Margoh" area="40000"/>
+      <desert name="Rigestan" area="25000"/>
+    </geo>
+    <peak height="7690"/>
+  </country>
+  <country name="Albania">
+    <geo>
+      <mountain name="Jezerce" height="2694"/>
+      <mountain name="Korab" height="2751"/>
+    </geo>
+    <peak height="2751"/>
+  </country>
+  <country name="Algeria">
+    <geo>
+      <mountain name="Tahat" height="3003"/>
+      <desert name="Azaouad" area="80000"/>
+      <desert name="Erg Chech" area="10000"/>
+      <desert name="Erg Igidi" area="150000"/>
+      <desert name="Erg Isaouane" area="80000"/>
+      <desert name="Grand Erg Est" area="150000"/>
+      <desert name="Grand Erg Ouest" area="200000"/>
+      <desert name="Hamada du Draa" area="35000"/>
+      <desert name="Tanezrouft" area="160000"/>
+    </geo>
+    <peak height="3003"/>
+  </country>
+  <country name="American Samoa">
+    <geo>
+      <island name="Tutuila">
+        <coordinates latitude="-14.16" longitude="-170.42"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Andorra">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Angola">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Anguilla">
+    <geo>
+      <island name="Anguilla">
+        <coordinates latitude="18" longitude="-64"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Antigua and Barbuda">
+    <geo>
+      <island name="Antigua">
+        <coordinates latitude="17.05" longitude="-61.8"/>
+      </island>
+      <island name="Barbuda">
+        <coordinates latitude="17.3" longitude="-61.4"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Argentina">
+    <geo>
+      <mountain name="Monte Pissis" height="6795"/>
+      <mountain name="Aconcagua" height="6962"/>
+      <mountain name="Tupungato" height="6550"/>
+      <mountain name="Llullaillaco" height="6739"/>
+      <mountain name="Monte Pissis" height="6795"/>
+      <mountain name="Ojos del Salado" height="6893"/>
+    </geo>
+    <peak height="6962"/>
+  </country>
+  <country name="Armenia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Aruba">
+    <geo>
+      <island name="Aruba">
+        <coordinates latitude="12.31" longitude="-70.02"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Australia">
+    <geo>
+      <mountain name="Mt. Kosciuszko" height="2228"/>
+      <mountain name="Uluru" height="869"/>
+      <mountain name="Mt. Bogong" height="1986"/>
+      <desert name="Gibson Desert" area="310800"/>
+      <desert name="Great Sandy Desert" area="360000"/>
+      <desert name="Great Victoria Desert" area="424400"/>
+      <desert name="Great Victoria Desert" area="424400"/>
+      <desert name="Nullarbor Plain" area="200000"/>
+      <desert name="Nullarbor Plain" area="200000"/>
+      <desert name="Red Centre" area="1000000"/>
+      <desert name="Red Centre" area="1000000"/>
+      <desert name="Red Centre" area="1000000"/>
+      <desert name="Simpson Desert" area="176500"/>
+      <desert name="Simpson Desert" area="176500"/>
+      <desert name="Simpson Desert" area="176500"/>
+      <desert name="Sturt Desert" area="13000"/>
+      <desert name="Sturt Desert" area="13000"/>
+      <desert name="Sturt Desert" area="13000"/>
+      <desert name="Tanami" area="37500"/>
+      <island name="Cangaroo Island">
+        <coordinates latitude="-35.8" longitude="137.3"/>
+      </island>
+      <island name="Tasmania">
+        <coordinates latitude="-42" longitude="145"/>
+      </island>
+      <island name="Melville Island">
+        <coordinates latitude="-12" longitude="131"/>
+      </island>
+    </geo>
+    <peak height="2228"/>
+  </country>
+  <country name="Austria">
+    <geo>
+      <mountain name="Grossglockner" height="3797"/>
+      <mountain name="Hochgolling" height="2862"/>
+      <mountain name="Hochgolling" height="2862"/>
+      <mountain name="Zugspitze" height="2963"/>
+    </geo>
+    <peak height="3797"/>
+  </country>
+  <country name="Azerbaijan">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Bahamas">
+    <geo>
+      <island name="New Providence">
+        <coordinates latitude="25" longitude="-77.4"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Bahrain">
+    <geo>
+      <island name="Bahrain">
+        <coordinates latitude="26" longitude="50.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Bangladesh">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Barbados">
+    <geo>
+      <island name="Barbados">
+        <coordinates latitude="13" longitude="-59.3"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Belarus">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Belgium">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Belize">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Benin">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Bermuda">
+    <geo>
+      <island name="Grand Bermuda">
+        <coordinates latitude="32.17" longitude="-64.47"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Bhutan">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Bolivia">
+    <geo>
+      <mountain name="Illampu" height="6368"/>
+      <mountain name="Illimani" height="6439"/>
+      <mountain name="Licancabur" height="5920"/>
+      <mountain name="Sajama" height="6542"/>
+    </geo>
+    <peak height="6542"/>
+  </country>
+  <country name="Bosnia and Herzegovina">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Botswana">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Brazil">
+    <geo>
+      <mountain name="Pico de Agulhas Negras" height="2791"/>
+      <mountain name="Pico de Agulhas Negras" height="2791"/>
+    </geo>
+    <peak height="2791"/>
+  </country>
+  <country name="British Virgin Islands">
+    <geo>
+      <island name="Tortola">
+        <coordinates latitude="18.27" longitude="-64.37"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Brunei">
+    <geo>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Bulgaria">
+    <geo>
+      <mountain name="Musala" height="2925"/>
+    </geo>
+    <peak height="2925"/>
+  </country>
+  <country name="Burkina Faso">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Burundi">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Cambodia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Cameroon">
+    <geo>
+      <mountain name="Fako" height="4095"/>
+    </geo>
+    <peak height="4095"/>
+  </country>
+  <country name="Canada">
+    <geo>
+      <mountain name="Mt Columbia" height="3747"/>
+      <mountain name="Mt Columbia" height="3747"/>
+      <mountain name="Mt Fairweather" height="4663"/>
+      <mountain name="Mt Robson" height="3954"/>
+      <mountain name="Mt Waddington" height="4019"/>
+      <mountain name="Barbeau Peak" height="2616"/>
+      <mountain name="Mt. Odin" height="2147"/>
+      <mountain name="Mt. Babel" height="952"/>
+      <mountain name="Mt Bona" height="5005"/>
+      <mountain name="Mt Logan" height="5959"/>
+      <mountain name="Mt St.Elias" height="5489"/>
+      <island name="Vancouver Island">
+        <coordinates latitude="49.6" longitude="-125.65"/>
+      </island>
+      <island name="Newfoundland">
+        <coordinates latitude="48.6" longitude="-55.8"/>
+      </island>
+      <island name="Baffin Island">
+        <coordinates latitude="69" longitude="72"/>
+      </island>
+      <island name="Banks Island">
+        <coordinates latitude="72.85" longitude="-122.1"/>
+      </island>
+      <island name="Ellesmere Island">
+        <coordinates latitude="79.25" longitude="-79.6"/>
+      </island>
+      <island name="Prince of Wales Island">
+        <coordinates latitude="72.6" longitude="-98.55"/>
+      </island>
+      <island name="Southampton Island">
+        <coordinates latitude="64.5" longitude="-84.5"/>
+      </island>
+      <island name="Victoria Island">
+        <coordinates latitude="70.75" longitude="-110.1"/>
+      </island>
+      <island name="Manitoulin">
+        <coordinates latitude="45.75" longitude="-82.2"/>
+      </island>
+      <island name="Rene Levasseur Island">
+        <coordinates latitude="51.4" longitude="-68.7"/>
+      </island>
+      <island name="Prince Edward Island">
+        <coordinates latitude="46.3" longitude="-63.4"/>
+      </island>
+    </geo>
+    <peak height="5959"/>
+  </country>
+  <country name="Cape Verde">
+    <geo>
+      <mountain name="Fogo" height="2829"/>
+      <island name="Fogo">
+        <coordinates latitude="17.95" longitude="-24.4"/>
+      </island>
+      <island name="Santiago">
+        <coordinates latitude="15.1" longitude="-23.6"/>
+      </island>
+    </geo>
+    <peak height="2829"/>
+  </country>
+  <country name="Cayman Islands">
+    <geo>
+      <island name="Cayman Brac">
+        <coordinates latitude="19.7" longitude="-79.8"/>
+      </island>
+      <island name="Grand Cayman">
+        <coordinates latitude="19.18" longitude="-81.23"/>
+      </island>
+      <island name="Little Cayman">
+        <coordinates latitude="19.8" longitude="-80"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Central African Republic">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Chad">
+    <geo>
+      <mountain name="Emi Kussi" height="3415"/>
+      <desert name="Djourab" area="100000"/>
+      <desert name="Erdi Ennedi" area="180000"/>
+      <desert name="Tenere" area="600000"/>
+    </geo>
+    <peak height="3415"/>
+  </country>
+  <country name="Chile">
+    <geo>
+      <mountain name="Licancabur" height="5920"/>
+      <mountain name="Llullaillaco" height="6739"/>
+      <mountain name="Ojos del Salado" height="6893"/>
+      <desert name="Atacama" area="181300"/>
+      <island name="Osterinsel">
+        <coordinates latitude="-27.1" longitude="-109.35"/>
+      </island>
+    </geo>
+    <peak height="6893"/>
+  </country>
+  <country name="China">
+    <geo>
+      <mountain name="Changbai Shan" height="2744"/>
+      <mountain name="Cho Oyu" height="8188"/>
+      <mountain name="Kailash" height="6714"/>
+      <mountain name="Lhotse" height="8516"/>
+      <mountain name="Makalu" height="8485"/>
+      <mountain name="Mount Everest" height="8848"/>
+      <mountain name="Shishapangma" height="8027"/>
+      <mountain name="Broad Peak" height="8051"/>
+      <mountain name="Gasherbrum I" height="8080"/>
+      <mountain name="Gasherbrum II" height="8034"/>
+      <mountain name="K2" height="8611"/>
+      <mountain name="Pik Pobeda" height="7439"/>
+      <desert name="Gobi" area="1000000"/>
+      <desert name="Gobi" area="1000000"/>
+      <desert name="Gobi" area="1000000"/>
+      <desert name="Gurbantunggut" area="48800"/>
+      <desert name="Kum Tagh" area="22000"/>
+      <desert name="Ordos" area="90000"/>
+      <desert name="Ordos" area="90000"/>
+      <desert name="Ordos" area="90000"/>
+      <desert name="Qaidam" area="120000"/>
+      <desert name="TaklaMakan" area="300000"/>
+      <island name="Hainan">
+        <coordinates latitude="19.1" longitude="109.6"/>
+      </island>
+    </geo>
+    <peak height="8848"/>
+  </country>
+  <country name="Christmas Island">
+    <geo>
+      <island name="Christmas Island">
+        <coordinates latitude="-10.25" longitude="105.43"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Cocos Islands">
+    <geo>
+      <island name="Pulau Panjang">
+        <coordinates latitude="-12.2" longitude="96.9"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Colombia">
+    <geo>
+      <mountain name="Nevado del Ruiz" height="5389"/>
+      <mountain name="Nevado del Huila" height="5750"/>
+      <mountain name="Pico Cristobal Colon" height="5775"/>
+      <mountain name="Nevado del Ruiz" height="5389"/>
+    </geo>
+    <peak height="5775"/>
+  </country>
+  <country name="Comoros">
+    <geo>
+      <island name="Anjouan">
+        <coordinates latitude="-12.2" longitude="44.35"/>
+      </island>
+      <island name="Grand Comoro">
+        <coordinates latitude="-11.7" longitude="43.4"/>
+      </island>
+      <island name="Mohilla">
+        <coordinates latitude="-12.25" longitude="43.75"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Congo">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Cook Islands">
+    <geo>
+      <island name="Rarotonga">
+        <coordinates latitude="-21.12" longitude="-159.46"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Costa Rica">
+    <geo>
+      <mountain name="Cerro Chirripo" height="3819"/>
+      <mountain name="Irazu" height="3432"/>
+      <mountain name="Cerro Chirripo" height="3819"/>
+    </geo>
+    <peak height="3819"/>
+  </country>
+  <country name="Cote dIvoire">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Croatia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Cuba">
+    <geo>
+      <mountain name="Pico Turquino" height="1974"/>
+      <mountain name="Pico Turquino" height="1974"/>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+      <island name="Cuba">
+        <coordinates latitude="22" longitude="-79"/>
+      </island>
+    </geo>
+    <peak height="1974"/>
+  </country>
+  <country name="Cyprus">
+    <geo>
+      <mountain name="Olympos" height="1952"/>
+      <island name="Cyprus">
+        <coordinates latitude="35.4" longitude="33.2"/>
+      </island>
+    </geo>
+    <peak height="1952"/>
+  </country>
+  <country name="Czech Republic">
+    <geo>
+      <mountain name="Schneekoppe" height="1602"/>
+    </geo>
+    <peak height="1602"/>
+  </country>
+  <country name="Denmark">
+    <geo>
+      <island name="Bornholm">
+        <coordinates latitude="55.1" longitude="14.9"/>
+      </island>
+      <island name="Falster">
+        <coordinates latitude="54.8" longitude="12"/>
+      </island>
+      <island name="Fuenen">
+        <coordinates latitude="55.35" longitude="10.25"/>
+      </island>
+      <island name="Langeland">
+        <coordinates latitude="55" longitude="10.5"/>
+      </island>
+      <island name="Lolland">
+        <coordinates latitude="54.4" longitude="11.5"/>
+      </island>
+      <island name="Seeland">
+        <coordinates latitude="55.3" longitude="12"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Djibouti">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Dominica">
+    <geo>
+      <mountain name="Morne Diablotins" height="1447"/>
+      <island name="Dominica">
+        <coordinates latitude="15.4" longitude="-61.35"/>
+      </island>
+    </geo>
+    <peak height="1447"/>
+  </country>
+  <country name="Dominican Republic">
+    <geo>
+      <mountain name="Pico Duarte" height="3098"/>
+      <island name="Hispaniola">
+        <coordinates latitude="19" longitude="-70.7"/>
+      </island>
+    </geo>
+    <peak height="3098"/>
+  </country>
+  <country name="Ecuador">
+    <geo>
+      <mountain name="Cayambe" height="5796"/>
+      <mountain name="Chimborazo" height="6287"/>
+      <mountain name="Cotopaxi" height="5897"/>
+      <island name="Isabela">
+        <coordinates latitude="-1" longitude="-91.3"/>
+      </island>
+    </geo>
+    <peak height="6287"/>
+  </country>
+  <country name="Egypt">
+    <geo>
+      <mountain name="Jabal Katrina" height="2637"/>
+      <desert name="Arabian Desert" area="50000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+    </geo>
+    <peak height="2637"/>
+  </country>
+  <country name="El Salvador">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Equatorial Guinea">
+    <geo>
+      <mountain name="Pico Basile" height="3011"/>
+      <island name="Bioko">
+        <coordinates latitude="3.5" longitude="8.7"/>
+      </island>
+    </geo>
+    <peak height="3011"/>
+  </country>
+  <country name="Eritrea">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Estonia">
+    <geo>
+      <island name="Dagoe">
+        <coordinates latitude="58.8" longitude="22.7"/>
+      </island>
+      <island name="Oesel">
+        <coordinates latitude="58.3" longitude="22"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Ethiopia">
+    <geo>
+      <mountain name="Ras Daschan Terara" height="4533"/>
+    </geo>
+    <peak height="4533"/>
+  </country>
+  <country name="Falkland Islands">
+    <geo>
+      <island name="East Falkland">
+        <coordinates latitude="-51.8" longitude="-58.8"/>
+      </island>
+      <island name="West Falkland">
+        <coordinates latitude="-51.8" longitude="-60.1"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Faroe Islands">
+    <geo>
+      <island name="Streymoy">
+        <coordinates latitude="62" longitude="-7"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Fiji">
+    <geo>
+      <mountain name="Mt.Victoria" height="1323"/>
+      <island name="Vanua Levu">
+        <coordinates latitude="-16.35" longitude="179.25"/>
+      </island>
+      <island name="Viti Levu">
+        <coordinates latitude="-17.8" longitude="178"/>
+      </island>
+    </geo>
+    <peak height="1323"/>
+  </country>
+  <country name="Finland">
+    <geo>
+      <mountain name="Haltiatunturi" height="1328"/>
+      <island name="Aland">
+        <coordinates latitude="60.1" longitude="20"/>
+      </island>
+    </geo>
+    <peak height="1328"/>
+  </country>
+  <country name="France">
+    <geo>
+      <mountain name="Grand Ballon" height="1424"/>
+      <mountain name="Puy De Dome" height="1465"/>
+      <mountain name="Puy de Sancy" height="1885"/>
+      <mountain name="Monte Cinto" height="2706"/>
+      <mountain name="Grand Ballon" height="1424"/>
+      <mountain name="Vignemale" height="3298"/>
+      <mountain name="Barre des Ecrins" height="4101"/>
+      <mountain name="Mont Blanc" height="4808"/>
+      <island name="Corse">
+        <coordinates latitude="41.4" longitude="8.4"/>
+      </island>
+    </geo>
+    <peak height="4808"/>
+  </country>
+  <country name="French Guiana">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="French Polynesia">
+    <geo>
+      <mountain name="Mont Orohena" height="2241"/>
+      <island name="Tahiti">
+        <coordinates latitude="-17.32" longitude="-149.34"/>
+      </island>
+    </geo>
+    <peak height="2241"/>
+  </country>
+  <country name="Gabon">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Gambia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Gaza Strip">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Georgia">
+    <geo>
+      <mountain name="Kasbek" height="5033"/>
+    </geo>
+    <peak height="5033"/>
+  </country>
+  <country name="Germany">
+    <geo>
+      <mountain name="Feldberg" height="1493"/>
+      <mountain name="Grosser Arber" height="1456"/>
+      <mountain name="Zugspitze" height="2963"/>
+      <mountain name="Brocken" height="1141"/>
+      <island name="Amrum">
+        <coordinates latitude="54.65" longitude="8.3"/>
+      </island>
+      <island name="Fehmarn">
+        <coordinates latitude="54.4" longitude="11.2"/>
+      </island>
+      <island name="Fohr">
+        <coordinates latitude="54.7" longitude="8.5"/>
+      </island>
+      <island name="Helgoland">
+        <coordinates latitude="54.2" longitude="7.9"/>
+      </island>
+      <island name="Pellworm">
+        <coordinates latitude="54.5" longitude="8.6"/>
+      </island>
+      <island name="Sylt">
+        <coordinates latitude="54.9" longitude="8.3"/>
+      </island>
+      <island name="Rugen">
+        <coordinates latitude="54.5" longitude="13.4"/>
+      </island>
+      <island name="Usedom">
+        <coordinates latitude="53.9" longitude="14.1"/>
+      </island>
+      <island name="Baltrum">
+        <coordinates latitude="53.6" longitude="7.4"/>
+      </island>
+      <island name="Borkum">
+        <coordinates latitude="53.6" longitude="6.7"/>
+      </island>
+      <island name="Juist">
+        <coordinates latitude="53.6" longitude="7"/>
+      </island>
+      <island name="Langeoog">
+        <coordinates latitude="53.65" longitude="7.5"/>
+      </island>
+      <island name="Norderney">
+        <coordinates latitude="53.7" longitude="7.9"/>
+      </island>
+      <island name="Spiekeroog">
+        <coordinates latitude="53.8" longitude="7.6"/>
+      </island>
+      <island name="Wangerooge">
+        <coordinates latitude="53.8" longitude="7.9"/>
+      </island>
+    </geo>
+    <peak height="2963"/>
+  </country>
+  <country name="Ghana">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Gibraltar">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Greece">
+    <geo>
+      <mountain name="Olymp" height="2917"/>
+      <mountain name="Psiloritis" height="2456"/>
+      <mountain name="Olymp" height="2917"/>
+      <island name="Chios">
+        <coordinates latitude="38.4" longitude="26.2"/>
+      </island>
+      <island name="Ikaria">
+        <coordinates latitude="37.6" longitude="26.2"/>
+      </island>
+      <island name="Lesbos">
+        <coordinates latitude="39.2" longitude="26.3"/>
+      </island>
+      <island name="Samos">
+        <coordinates latitude="37.7" longitude="26.8"/>
+      </island>
+      <island name="Kefallinia">
+        <coordinates latitude="38.2" longitude="20.6"/>
+      </island>
+      <island name="Korfu">
+        <coordinates latitude="39.6" longitude="19.8"/>
+      </island>
+      <island name="Lefkas">
+        <coordinates latitude="38.7" longitude="20.6"/>
+      </island>
+      <island name="Zakinthos">
+        <coordinates latitude="37.8" longitude="20.75"/>
+      </island>
+      <island name="Kreta">
+        <coordinates latitude="37" longitude="25"/>
+      </island>
+      <island name="Kos">
+        <coordinates latitude="36.8" longitude="27.1"/>
+      </island>
+      <island name="Rhodos">
+        <coordinates latitude="36.2" longitude="28"/>
+      </island>
+    </geo>
+    <peak height="2917"/>
+  </country>
+  <country name="Greenland">
+    <geo>
+      <island name="Greenland">
+        <coordinates latitude="70" longitude="-40"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Grenada">
+    <geo>
+      <island name="Grenada">
+        <coordinates latitude="12" longitude="-62"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Guadeloupe">
+    <geo>
+      <mountain name="La Soufriere" height="1467"/>
+      <island name="Basse-Terre">
+        <coordinates latitude="16.15" longitude="-61.8"/>
+      </island>
+      <island name="Grande-Terre">
+        <coordinates latitude="16.3" longitude="-61.4"/>
+      </island>
+    </geo>
+    <peak height="1467"/>
+  </country>
+  <country name="Guam">
+    <geo>
+      <island name="Guam">
+        <coordinates latitude="13.4" longitude="144.7"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Guatemala">
+    <geo>
+      <mountain name="Tajumulco" height="4220"/>
+    </geo>
+    <peak height="4220"/>
+  </country>
+  <country name="Guernsey">
+    <geo>
+      <island name="Guernsey">
+        <coordinates latitude="49.6" longitude="-2.6"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Guinea">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Guinea-Bissau">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Guyana">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Haiti">
+    <geo>
+      <island name="Hispaniola">
+        <coordinates latitude="19" longitude="-70.7"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Holy See">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Honduras">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Hong Kong">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Hungary">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Iceland">
+    <geo>
+      <mountain name="Oeraefajoekull" height="2119"/>
+      <mountain name="Snoefell" height="1833"/>
+      <island name="Iceland">
+        <coordinates latitude="65" longitude="-18"/>
+      </island>
+    </geo>
+    <peak height="2119"/>
+  </country>
+  <country name="India">
+    <geo>
+      <mountain name="Kangchendzonga" height="8586"/>
+      <mountain name="Dodabetta" height="2636"/>
+      <mountain name="Nanda Devi" height="7816"/>
+      <desert name="Thar" area="240000"/>
+      <desert name="Thar" area="240000"/>
+      <desert name="Thar" area="240000"/>
+      <desert name="Thar" area="240000"/>
+      <island name="South Andaman Island">
+        <coordinates latitude="11.4" longitude="92.5"/>
+      </island>
+      <island name="Kavaratti">
+        <coordinates latitude="10.6" longitude="72.6"/>
+      </island>
+    </geo>
+    <peak height="8586"/>
+  </country>
+  <country name="Indonesia">
+    <geo>
+      <mountain name="Gunung Agung" height="3142"/>
+      <mountain name="Gunung Binaiya" height="3027"/>
+      <mountain name="Kerinci" height="3805"/>
+      <mountain name="Krakatau" height="813"/>
+      <mountain name="Leuser" height="3466"/>
+      <mountain name="Merapi" height="2914"/>
+      <mountain name="Puncak Jaya" height="4884"/>
+      <mountain name="Rantekombola" height="3455"/>
+      <mountain name="Rinjani" height="3726"/>
+      <mountain name="Semeru" height="3676"/>
+      <mountain name="Tambora" height="2850"/>
+      <island name="Ambon">
+        <coordinates latitude="-3.7" longitude="128.2"/>
+      </island>
+      <island name="Bali">
+        <coordinates latitude="-8.4" longitude="115.1"/>
+      </island>
+      <island name="Bangka">
+        <coordinates latitude="2.25" longitude="106"/>
+      </island>
+      <island name="Batam">
+        <coordinates latitude="1.1" longitude="104.05"/>
+      </island>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+      <island name="Ceram">
+        <coordinates latitude="-2" longitude="128"/>
+      </island>
+      <island name="Java">
+        <coordinates latitude="-7.5" longitude="111.25"/>
+      </island>
+      <island name="Krakatau">
+        <coordinates latitude="-6.1" longitude="105.6"/>
+      </island>
+      <island name="Lombok">
+        <coordinates latitude="-8.4" longitude="116.5"/>
+      </island>
+      <island name="New Guinea">
+        <coordinates latitude="-5" longitude="142"/>
+      </island>
+      <island name="Samosir">
+        <coordinates latitude="2.6" longitude="98.85"/>
+      </island>
+      <island name="Sulawesi">
+        <coordinates latitude="-2.1" longitude="120.3"/>
+      </island>
+      <island name="Sumatra">
+        <coordinates latitude="0" longitude="102"/>
+      </island>
+      <island name="Sumbawa">
+        <coordinates latitude="-8.8" longitude="116.1"/>
+      </island>
+      <island name="Timor">
+        <coordinates latitude="-9.2" longitude="124.9"/>
+      </island>
+    </geo>
+    <peak height="4884"/>
+  </country>
+  <country name="Iran">
+    <geo>
+      <mountain name="Sabalan" height="4811"/>
+      <mountain name="Zard Kuh" height="4550"/>
+      <mountain name="Damavand" height="5610"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Kavir" area="77600"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <desert name="Dascht-e-Lut" area="166000"/>
+      <island name="Khark">
+        <coordinates latitude="29.1" longitude="50.2"/>
+      </island>
+      <island name="Lavan">
+        <coordinates latitude="26.5" longitude="53.1"/>
+      </island>
+      <island name="Gheschm">
+        <coordinates latitude="" longitude=""/>
+      </island>
+    </geo>
+    <peak height="5610"/>
+  </country>
+  <country name="Iraq">
+    <geo>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Ireland">
+    <geo>
+      <island name="Ireland">
+        <coordinates latitude="53.5" longitude="-7.8"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Israel">
+    <geo>
+      <desert name="Negev" area="12000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Italy">
+    <geo>
+      <mountain name="Gran Sasso" height="2912"/>
+      <mountain name="Vesuv" height="1281"/>
+      <mountain name="Monte Falterona" height="1654"/>
+      <mountain name="Monte Rosa" height="4634"/>
+      <mountain name="Piz Bernina" height="4048"/>
+      <mountain name="GranParadiso" height="4061"/>
+      <mountain name="Etna" height="3323"/>
+      <mountain name="Monte Falterona" height="1654"/>
+      <mountain name="Marmolata" height="3343"/>
+      <mountain name="GranParadiso" height="4061"/>
+      <mountain name="Matterhorn" height="4478"/>
+      <mountain name="Mont Blanc" height="4808"/>
+      <mountain name="Monte Rosa" height="4634"/>
+      <mountain name="Marmolata" height="3343"/>
+      <island name="Sardegna">
+        <coordinates latitude="40" longitude="9"/>
+      </island>
+      <island name="Lampedusa">
+        <coordinates latitude="35.4" longitude="13.2"/>
+      </island>
+      <island name="Linosa">
+        <coordinates latitude="35.85" longitude="13.85"/>
+      </island>
+      <island name="Sicilia">
+        <coordinates latitude="37" longitude="14"/>
+      </island>
+      <island name="Alicudi">
+        <coordinates latitude="38.6" longitude="14.4"/>
+      </island>
+      <island name="Filicudi">
+        <coordinates latitude="38.6" longitude="14.55"/>
+      </island>
+      <island name="Lipari">
+        <coordinates latitude="38.5" longitude="14.95"/>
+      </island>
+      <island name="Panarea">
+        <coordinates latitude="38.65" longitude="15.05"/>
+      </island>
+      <island name="Salina">
+        <coordinates latitude="38.6" longitude="14.9"/>
+      </island>
+      <island name="Stromboli">
+        <coordinates latitude="38.8" longitude="15.15"/>
+      </island>
+      <island name="Vulcano">
+        <coordinates latitude="38.4" longitude="15"/>
+      </island>
+    </geo>
+    <peak height="4808"/>
+  </country>
+  <country name="Jamaica">
+    <geo>
+      <mountain name="Blue Mountain Peak" height="2256"/>
+      <island name="Jamaica">
+        <coordinates latitude="18.1" longitude="-77.3"/>
+      </island>
+    </geo>
+    <peak height="2256"/>
+  </country>
+  <country name="Japan">
+    <geo>
+      <mountain name="Hotaka-Dake" height="3190"/>
+      <mountain name="Asahi-Dake" height="2290"/>
+      <mountain name="Hotaka-Dake" height="3190"/>
+      <mountain name="Fujisan" height="3776"/>
+      <mountain name="Fujisan" height="3776"/>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Hokkaido">
+        <coordinates latitude="43.3" longitude="143"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Shikoku">
+        <coordinates latitude="34" longitude="134"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Okinawa">
+        <coordinates latitude="26" longitude="128"/>
+      </island>
+      <island name="Honshu">
+        <coordinates latitude="36.3" longitude="138.6"/>
+      </island>
+      <island name="Kyushu">
+        <coordinates latitude="32" longitude="131"/>
+      </island>
+    </geo>
+    <peak height="3776"/>
+  </country>
+  <country name="Jersey">
+    <geo>
+      <island name="Jersey">
+        <coordinates latitude="49.2" longitude="-2.1"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Jordan">
+    <geo>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Kazakstan">
+    <geo>
+      <mountain name="Bjelucha" height="4506"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Mujunkum" area="37500"/>
+      <desert name="Mujunkum" area="37500"/>
+      <desert name="Ryn" area="80000"/>
+      <desert name="Ryn" area="80000"/>
+      <desert name="Ust Urt" area="180000"/>
+      <desert name="Ust Urt" area="180000"/>
+    </geo>
+    <peak height="4506"/>
+  </country>
+  <country name="Kenya">
+    <geo>
+      <mountain name="Kenia" height="5199"/>
+      <mountain name="Elgon" height="4321"/>
+    </geo>
+    <peak height="5199"/>
+  </country>
+  <country name="Kiribati">
+    <geo>
+      <island name="Tarawa">
+        <coordinates latitude="1.4" longitude="173"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Kosovo">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Kuwait">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Kyrgyzstan">
+    <geo>
+      <mountain name="Pik Chan-Tengri" height="6995"/>
+      <mountain name="Pik Lenina" height="7134"/>
+      <mountain name="Pik Pobeda" height="7439"/>
+    </geo>
+    <peak height="7439"/>
+  </country>
+  <country name="Laos">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Latvia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Lebanon">
+    <geo>
+      <mountain name="Jabal Lubnan" height="3088"/>
+    </geo>
+    <peak height="3088"/>
+  </country>
+  <country name="Lesotho">
+    <geo>
+      <mountain name="Thabana Ntlenyana" height="3482"/>
+    </geo>
+    <peak height="3482"/>
+  </country>
+  <country name="Liberia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Libya">
+    <geo>
+      <desert name="Erg Rebiana" area="200000"/>
+      <desert name="Fesan" area="300000"/>
+      <desert name="Hamada al-Hamra" area="84000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Liechtenstein">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Lithuania">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Luxembourg">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Macau">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Macedonia">
+    <geo>
+      <mountain name="Korab" height="2751"/>
+    </geo>
+    <peak height="2751"/>
+  </country>
+  <country name="Madagascar">
+    <geo>
+      <mountain name="Tsiafajavona" height="2642"/>
+      <mountain name="Tsaratanana" height="2876"/>
+      <mountain name="Andringitra" height="2658"/>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+      <island name="Madagaskar">
+        <coordinates latitude="-20" longitude="46"/>
+      </island>
+    </geo>
+    <peak height="2876"/>
+  </country>
+  <country name="Malawi">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Malaysia">
+    <geo>
+      <mountain name="Tahan" height="2190"/>
+      <mountain name="Tahan" height="2190"/>
+      <mountain name="Kinabalu" height="4101"/>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+      <island name="Borneo">
+        <coordinates latitude="-.2" longitude="113.67"/>
+      </island>
+    </geo>
+    <peak height="4101"/>
+  </country>
+  <country name="Maldives">
+    <geo>
+      <island name="Male">
+        <coordinates latitude="2" longitude="72"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Mali">
+    <geo>
+      <desert name="Azaouad" area="80000"/>
+      <desert name="Erg Chech" area="10000"/>
+      <desert name="Erg Igidi" area="150000"/>
+      <desert name="Tanezrouft" area="160000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Malta">
+    <geo>
+      <island name="Gozo">
+        <coordinates latitude="36.05" longitude="14.3"/>
+      </island>
+      <island name="Malta">
+        <coordinates latitude="35.9" longitude="14.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Man">
+    <geo>
+      <island name="Isle of Man">
+        <coordinates latitude="54.1" longitude="-4.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Marshall Islands">
+    <geo>
+      <island name="Majuro">
+        <coordinates latitude="7.1" longitude="171.4"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Martinique">
+    <geo>
+      <mountain name="Pelee" height="1397"/>
+      <island name="Martinique">
+        <coordinates latitude="14.6" longitude="-61"/>
+      </island>
+    </geo>
+    <peak height="1397"/>
+  </country>
+  <country name="Mauritania">
+    <geo>
+      <desert name="Erg Igidi" area="150000"/>
+      <desert name="Erg Maqteir" area="40000"/>
+      <desert name="Erg Ouarane" area="80000"/>
+      <desert name="Trarza" area="50000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Mauritius">
+    <geo>
+      <island name="Mauritius">
+        <coordinates latitude="-20" longitude="57"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Mayotte">
+    <geo>
+      <island name="Mayotte">
+        <coordinates latitude="-12.46" longitude="45.13"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Mexico">
+    <geo>
+      <mountain name="Nevado de Colima" height="4330"/>
+      <mountain name="Nevado de Toluca" height="4558"/>
+      <mountain name="Popocatepetl" height="5450"/>
+      <mountain name="Popocatepetl" height="5450"/>
+      <mountain name="Citlaltepetl (Pico de Orizaba)" height="5700"/>
+      <mountain name="Iztaccihuatl" height="5286"/>
+      <mountain name="Popocatepetl" height="5450"/>
+      <mountain name="Citlaltepetl (Pico de Orizaba)" height="5700"/>
+      <desert name="Baja California Desert" area="30000"/>
+      <desert name="Sonora" area="320000"/>
+      <desert name="Sonora" area="320000"/>
+    </geo>
+    <peak height="5700"/>
+  </country>
+  <country name="Micronesia">
+    <geo>
+      <island name="Ponape">
+        <coordinates latitude="6.85" longitude="158.2"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Moldova">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Monaco">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Mongolia">
+    <geo>
+      <desert name="Gobi" area="1000000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Montenegro">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Montserrat">
+    <geo>
+      <mountain name="Soufriere Hills" height="1050"/>
+      <island name="Montserrat">
+        <coordinates latitude="16.42" longitude="-62.13"/>
+      </island>
+    </geo>
+    <peak height="1050"/>
+  </country>
+  <country name="Morocco">
+    <geo>
+      <mountain name="Djebel Aures" height="2456"/>
+      <mountain name="Tubkhal" height="4165"/>
+      <desert name="Hamada du Draa" area="35000"/>
+    </geo>
+    <peak height="4165"/>
+  </country>
+  <country name="Mozambique">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Myanmar">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Namibia">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+      <desert name="Namib" area="95000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Nauru">
+    <geo>
+      <island name="Nauru">
+        <coordinates latitude="-1" longitude="167"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Nepal">
+    <geo>
+      <mountain name="Annapurna" height="8091"/>
+      <mountain name="Cho Oyu" height="8188"/>
+      <mountain name="Dhaulagiri" height="8167"/>
+      <mountain name="Kangchendzonga" height="8586"/>
+      <mountain name="Lhotse" height="8516"/>
+      <mountain name="Makalu" height="8485"/>
+      <mountain name="Manaslu" height="8163"/>
+      <mountain name="Mount Everest" height="8848"/>
+    </geo>
+    <peak height="8848"/>
+  </country>
+  <country name="Netherlands">
+    <geo>
+      <island name="Ameland">
+        <coordinates latitude="53.5" longitude="5.75"/>
+      </island>
+      <island name="Schiermonnikoog">
+        <coordinates latitude="53.5" longitude="6.2"/>
+      </island>
+      <island name="Terschelling">
+        <coordinates latitude="53.4" longitude="5.3"/>
+      </island>
+      <island name="Vlieland">
+        <coordinates latitude="53.25" longitude="5"/>
+      </island>
+      <island name="Texel">
+        <coordinates latitude="53.1" longitude="4.8"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Netherlands Antilles">
+    <geo>
+      <island name="Bonaire">
+        <coordinates latitude="12.2" longitude="-68.3"/>
+      </island>
+      <island name="Curacao">
+        <coordinates latitude="12.2" longitude="-69"/>
+      </island>
+      <island name="St. Martin">
+        <coordinates latitude="18.1" longitude="-63.1"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="New Caledonia">
+    <geo>
+      <island name="Grande Terre">
+        <coordinates latitude="-22.16" longitude="166.27"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="New Zealand">
+    <geo>
+      <mountain name="Mt. Cook" height="3754"/>
+      <mountain name="Ruapehu" height="2797"/>
+      <island name="Te Ika-a-Maui (North Island)">
+        <coordinates latitude="-38.4" longitude="175.7"/>
+      </island>
+      <island name="Te Waka-a-Maui (South Island)">
+        <coordinates latitude="-44" longitude="170.4"/>
+      </island>
+    </geo>
+    <peak height="3754"/>
+  </country>
+  <country name="Nicaragua">
+    <geo>
+      <mountain name="Concepcion" height="1700"/>
+      <island name="Isla da Ometepe">
+        <coordinates latitude="11.5" longitude="-85.6"/>
+      </island>
+    </geo>
+    <peak height="1700"/>
+  </country>
+  <country name="Niger">
+    <geo>
+      <mountain name="Mont Greboun" height="1944"/>
+      <mountain name="Tamgak" height="1800"/>
+      <desert name="Azaouad" area="80000"/>
+      <desert name="Talak" area="100000"/>
+      <desert name="Tenere" area="600000"/>
+    </geo>
+    <peak height="1944"/>
+  </country>
+  <country name="Nigeria">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Niue">
+    <geo>
+      <island name="Niue">
+        <coordinates latitude="-19.01" longitude="-169.55"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Norfolk Island">
+    <geo>
+      <island name="Norfolk Island">
+        <coordinates latitude="-29" longitude="168"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="North Korea">
+    <geo>
+      <mountain name="Changbai Shan" height="2744"/>
+    </geo>
+    <peak height="2744"/>
+  </country>
+  <country name="Northern Mariana Islands">
+    <geo>
+      <island name="Rota">
+        <coordinates latitude="15.15" longitude="145.2"/>
+      </island>
+      <island name="Saipan">
+        <coordinates latitude="15.2" longitude="145.75"/>
+      </island>
+      <island name="Tinian">
+        <coordinates latitude="15" longitude="145.6"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Norway">
+    <geo>
+      <mountain name="Joekul" height="1876"/>
+      <mountain name="Sulitjelma" height="1914"/>
+      <mountain name="Galdhoeppig" height="2469"/>
+      <mountain name="Glittertind" height="2452"/>
+      <mountain name="Snoehetta" height="2286"/>
+      <mountain name="Jostedalsbre" height="2083"/>
+      <island name="Aust-Vagoey">
+        <coordinates latitude="68.3" longitude="14.6"/>
+      </island>
+    </geo>
+    <peak height="2469"/>
+  </country>
+  <country name="Oman">
+    <geo>
+      <desert name="Rub Al Chali" area="780000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Pakistan">
+    <geo>
+      <mountain name="Broad Peak" height="8051"/>
+      <mountain name="Gasherbrum I" height="8080"/>
+      <mountain name="Gasherbrum II" height="8034"/>
+      <mountain name="K2" height="8611"/>
+      <mountain name="Nanga Parbat" height="8125"/>
+      <desert name="Rigestan" area="25000"/>
+      <desert name="Thar" area="240000"/>
+    </geo>
+    <peak height="8611"/>
+  </country>
+  <country name="Palau">
+    <geo>
+      <island name="Babelthuap">
+        <coordinates latitude="7.5" longitude="134.6"/>
+      </island>
+      <island name="Koror">
+        <coordinates latitude="7.3" longitude="134.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Panama">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Papua New Guinea">
+    <geo>
+      <mountain name="Mt. Balbi" height="2715"/>
+      <mountain name="Mt. Giluwe" height="4368"/>
+      <mountain name="Mt. Wilhelm" height="4509"/>
+      <island name="Bougainville">
+        <coordinates latitude="-6.2" longitude="155.25"/>
+      </island>
+      <island name="New Guinea">
+        <coordinates latitude="-5" longitude="142"/>
+      </island>
+    </geo>
+    <peak height="4509"/>
+  </country>
+  <country name="Paraguay">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Peru">
+    <geo>
+      <mountain name="Alpamayo" height="5947"/>
+      <mountain name="Huascaran" height="6768"/>
+      <mountain name="Pico Rocarre" height="5187"/>
+      <mountain name="Ampato" height="6288"/>
+      <mountain name="Coropuna" height="6425"/>
+      <mountain name="Ausangate" height="6336"/>
+    </geo>
+    <peak height="6768"/>
+  </country>
+  <country name="Philippines">
+    <geo>
+      <mountain name="Kanlaon" height="2435"/>
+      <mountain name="Mantalingajan" height="2085"/>
+      <mountain name="Mount Apo" height="2954"/>
+      <mountain name="Pinatubo" height="1486"/>
+      <mountain name="Pulog" height="2928"/>
+      <island name="Bohol">
+        <coordinates latitude="9.9" longitude="124.2"/>
+      </island>
+      <island name="Cebu">
+        <coordinates latitude="10.4" longitude="123.8"/>
+      </island>
+      <island name="Leyte">
+        <coordinates latitude="11" longitude="124.9"/>
+      </island>
+      <island name="Luzon">
+        <coordinates latitude="16.1" longitude="121"/>
+      </island>
+      <island name="Mindanao">
+        <coordinates latitude="7.55" longitude="124.9"/>
+      </island>
+      <island name="Mindoro">
+        <coordinates latitude="13" longitude="121.1"/>
+      </island>
+      <island name="Negros">
+        <coordinates latitude="10" longitude="123"/>
+      </island>
+      <island name="Palawan">
+        <coordinates latitude="9.5" longitude="118.4"/>
+      </island>
+      <island name="Panay">
+        <coordinates latitude="11.15" longitude="122.5"/>
+      </island>
+      <island name="Samar">
+        <coordinates latitude="12" longitude="125.1"/>
+      </island>
+    </geo>
+    <peak height="2954"/>
+  </country>
+  <country name="Pitcairn Islands">
+    <geo>
+      <island name="Pitcairn">
+        <coordinates latitude="-25.04" longitude="-130.05"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Poland">
+    <geo>
+      <mountain name="Schneekoppe" height="1602"/>
+      <island name="Usedom">
+        <coordinates latitude="53.9" longitude="14.1"/>
+      </island>
+    </geo>
+    <peak height="1602"/>
+  </country>
+  <country name="Portugal">
+    <geo>
+      <mountain name="Pico" height="2351"/>
+      <mountain name="Torre de Estrela" height="1993"/>
+      <mountain name="Pico Ruivo" height="1861"/>
+      <island name="Corvo">
+        <coordinates latitude="39.7" longitude="-31.1"/>
+      </island>
+      <island name="Faial">
+        <coordinates latitude="38.6" longitude="-28.7"/>
+      </island>
+      <island name="Flores">
+        <coordinates latitude="39.5" longitude="-31.2"/>
+      </island>
+      <island name="Graciosa">
+        <coordinates latitude="39" longitude="-28"/>
+      </island>
+      <island name="Pico">
+        <coordinates latitude="38.5" longitude="-28.4"/>
+      </island>
+      <island name="Santa Maria">
+        <coordinates latitude="37" longitude="-25.1"/>
+      </island>
+      <island name="Sao Jorge">
+        <coordinates latitude="38.6" longitude="-28"/>
+      </island>
+      <island name="Sao Miguel">
+        <coordinates latitude="37.7" longitude="-25.5"/>
+      </island>
+      <island name="Terceira">
+        <coordinates latitude="38.7" longitude="-27.2"/>
+      </island>
+      <island name="Madeira">
+        <coordinates latitude="31" longitude="-16"/>
+      </island>
+      <island name="Porto Santo">
+        <coordinates latitude="33" longitude="-16.35"/>
+      </island>
+    </geo>
+    <peak height="2351"/>
+  </country>
+  <country name="Puerto Rico">
+    <geo>
+      <mountain name="Cerro de Punta" height="1338"/>
+      <island name="Puerto Rico">
+        <coordinates latitude="18.49" longitude="-66.12"/>
+      </island>
+    </geo>
+    <peak height="1338"/>
+  </country>
+  <country name="Qatar">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Reunion">
+    <geo>
+      <mountain name="Piton de la Fournaise" height="2631"/>
+      <mountain name="Piton des Neiges" height="3069"/>
+      <island name="Reunion">
+        <coordinates latitude="-20.9" longitude="55.5"/>
+      </island>
+    </geo>
+    <peak height="3069"/>
+  </country>
+  <country name="Romania">
+    <geo>
+      <mountain name="Moldoveanu" height="2544"/>
+      <mountain name="Moldoveanu" height="2544"/>
+      <mountain name="Moldoveanu" height="2544"/>
+    </geo>
+    <peak height="2544"/>
+  </country>
+  <country name="Russia">
+    <geo>
+      <mountain name="Elbrus" height="5642"/>
+      <mountain name="Kljutschewskaja Sopka" height="4750"/>
+      <mountain name="Bjelucha" height="4506"/>
+      <mountain name="Zhima" height="1276"/>
+      <mountain name="Narodnaja" height="1895"/>
+      <mountain name="Kasbek" height="5033"/>
+      <desert name="Ryn" area="80000"/>
+      <desert name="Ryn" area="80000"/>
+      <island name="Sachalin">
+        <coordinates latitude="50" longitude="143"/>
+      </island>
+      <island name="Paramuschir">
+        <coordinates latitude="50.5" longitude="155.75"/>
+      </island>
+      <island name="Olkhon">
+        <coordinates latitude="53.15" longitude="107.4"/>
+      </island>
+      <island name="Kotelny Island">
+        <coordinates latitude="75.4" longitude="141"/>
+      </island>
+    </geo>
+    <peak height="5642"/>
+  </country>
+  <country name="Rwanda">
+    <geo>
+      <mountain name="Karisimbi" height="4507"/>
+    </geo>
+    <peak height="4507"/>
+  </country>
+  <country name="Saint Helena">
+    <geo>
+      <mountain name="Queen Marys Peak" height="2060"/>
+      <island name="Ascension">
+        <coordinates latitude="-7.9" longitude="-14.4"/>
+      </island>
+      <island name="Saint Helena">
+        <coordinates latitude="-15.56" longitude="-5.44"/>
+      </island>
+      <island name="Tristan Da Cunha">
+        <coordinates latitude="-37.1" longitude="-12.3"/>
+      </island>
+    </geo>
+    <peak height="2060"/>
+  </country>
+  <country name="Saint Kitts and Nevis">
+    <geo>
+      <island name="Nevis">
+        <coordinates latitude="17" longitude="-62.3"/>
+      </island>
+      <island name="Saint Kitts">
+        <coordinates latitude="17.3" longitude="-62.75"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Saint Lucia">
+    <geo>
+      <island name="Saint Lucia">
+        <coordinates latitude="14" longitude="-60.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Saint Martin">
+    <geo>
+      <island name="St. Martin">
+        <coordinates latitude="18.1" longitude="-63.1"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Saint Pierre and Miquelon">
+    <geo>
+      <island name="Saint Pierre">
+        <coordinates latitude="47" longitude="-56"/>
+      </island>
+      <island name="Miquelon-Langlade">
+        <coordinates latitude="47.1" longitude="-56.3"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Saint Vincent and the Grenadines">
+    <geo>
+      <mountain name="Soufriere" height="1220"/>
+      <island name="Saint Vincent">
+        <coordinates latitude="13.25" longitude="-61.3"/>
+      </island>
+    </geo>
+    <peak height="1220"/>
+  </country>
+  <country name="Samoa">
+    <geo>
+      <mountain name="Silisili" height="1858"/>
+      <island name="Savaii">
+        <coordinates latitude="-13.6" longitude="-172.4"/>
+      </island>
+      <island name="Upolu">
+        <coordinates latitude="-13.9" longitude="-171.75"/>
+      </island>
+    </geo>
+    <peak height="1858"/>
+  </country>
+  <country name="San Marino">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Sao Tome and Principe">
+    <geo>
+      <mountain name="Pico de Sao Tome" height="2024"/>
+      <island name="Principe">
+        <coordinates latitude="1.6" longitude="7.4"/>
+      </island>
+      <island name="Sao Tome">
+        <coordinates latitude=".2" longitude="6.6"/>
+      </island>
+    </geo>
+    <peak height="2024"/>
+  </country>
+  <country name="Saudi Arabia">
+    <geo>
+      <desert name="Nefud" area="78000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Senegal">
+    <geo>
+      <desert name="Ferlo" area="70000"/>
+      <desert name="Ferlo" area="70000"/>
+      <desert name="Ferlo" area="70000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Serbia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Seychelles">
+    <geo>
+      <island name="Mahe">
+        <coordinates latitude="-4.65" longitude="55.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Sierra Leone">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Singapore">
+    <geo>
+      <island name="Singapore">
+        <coordinates latitude="1.3" longitude="103.833"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Slovakia">
+    <geo>
+      <mountain name="GerlachovskyStit" height="2655"/>
+    </geo>
+    <peak height="2655"/>
+  </country>
+  <country name="Slovenia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Solomon Islands">
+    <geo>
+      <mountain name="Popomanaseu" height="2335"/>
+      <island name="Guadalcanal">
+        <coordinates latitude="-9.6" longitude="160.2"/>
+      </island>
+    </geo>
+    <peak height="2335"/>
+  </country>
+  <country name="Somalia">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="South Africa">
+    <geo>
+      <mountain name="Cathkin Peak" height="3181"/>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <peak height="3181"/>
+  </country>
+  <country name="South Korea">
+    <geo>
+      <island name="Jeju">
+        <coordinates latitude="33.4" longitude="126.5"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Spain">
+    <geo>
+      <mountain name="Mulhacen" height="3482"/>
+      <mountain name="Moncayo" height="2313"/>
+      <mountain name="Pico de Aneto" height="3404"/>
+      <mountain name="Vignemale" height="3298"/>
+      <mountain name="Torre de Cerredo" height="2648"/>
+      <mountain name="Pico de Teide" height="3718"/>
+      <mountain name="Pico de los Nieves" height="1949"/>
+      <mountain name="Roque de los Muchachos" height="2426"/>
+      <mountain name="Moncayo" height="2313"/>
+      <mountain name="Pico de Almanzor" height="2648"/>
+      <mountain name="Torre de Cerredo" height="2648"/>
+      <island name="Formentera">
+        <coordinates latitude="38" longitude="1.5"/>
+      </island>
+      <island name="Ibiza">
+        <coordinates latitude="38.5" longitude="1.5"/>
+      </island>
+      <island name="Mallorca">
+        <coordinates latitude="39.3" longitude="3"/>
+      </island>
+      <island name="Menorca">
+        <coordinates latitude="40" longitude="4"/>
+      </island>
+      <island name="Fuerteventura">
+        <coordinates latitude="28.4" longitude="-14"/>
+      </island>
+      <island name="Gomera">
+        <coordinates latitude="28.1" longitude="-17.3"/>
+      </island>
+      <island name="Gran Canaria">
+        <coordinates latitude="28" longitude="-15.6"/>
+      </island>
+      <island name="Hierro">
+        <coordinates latitude="27.7" longitude="-18"/>
+      </island>
+      <island name="La Palma">
+        <coordinates latitude="28.7" longitude="-17.9"/>
+      </island>
+      <island name="Lanzarote">
+        <coordinates latitude="29" longitude="-13.6"/>
+      </island>
+      <island name="Teneriffa">
+        <coordinates latitude="28.3" longitude="-16.6"/>
+      </island>
+    </geo>
+    <peak height="3718"/>
+  </country>
+  <country name="Sri Lanka">
+    <geo>
+      <mountain name="Pidurutalagala" height="2524"/>
+      <island name="Sri Lanka">
+        <coordinates latitude="7" longitude="80"/>
+      </island>
+    </geo>
+    <peak height="2524"/>
+  </country>
+  <country name="Sudan">
+    <geo>
+      <mountain name="Jabal Marra" height="3088"/>
+      <desert name="Darfur" area="500000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Libyan Desert" area="1100000"/>
+      <desert name="Nubian Desert" area="50000"/>
+    </geo>
+    <peak height="3088"/>
+  </country>
+  <country name="Suriname">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Svalbard">
+    <geo>
+      <island name="Svalbard">
+        <coordinates latitude="78.9" longitude="18.2"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Swaziland">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Sweden">
+    <geo>
+      <mountain name="Kebnekaise" height="2114"/>
+      <mountain name="Portefjaellen" height="2021"/>
+      <mountain name="Sarektjokko" height="2090"/>
+      <mountain name="Sulitjelma" height="1914"/>
+      <mountain name="Tarrekaise" height="1850"/>
+      <island name="Gotland">
+        <coordinates latitude="57.5" longitude="18.5"/>
+      </island>
+      <island name="Oeland">
+        <coordinates latitude="57" longitude="17"/>
+      </island>
+    </geo>
+    <peak height="2114"/>
+  </country>
+  <country name="Switzerland">
+    <geo>
+      <mountain name="Finsteraarhorn" height="4274"/>
+      <mountain name="Crap_Sogn_Gion" height="2228"/>
+      <mountain name="Piz Bernina" height="4048"/>
+      <mountain name="Finsteraarhorn" height="4274"/>
+      <mountain name="GrandCombin" height="4314"/>
+      <mountain name="Matterhorn" height="4478"/>
+      <mountain name="Monte Rosa" height="4634"/>
+    </geo>
+    <peak height="4634"/>
+  </country>
+  <country name="Syria">
+    <geo>
+      <desert name="Syrian Desert" area="518000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Taiwan">
+    <geo>
+      <mountain name="Yu Shan" height="3950"/>
+      <island name="Taiwan">
+        <coordinates latitude="24" longitude="121"/>
+      </island>
+    </geo>
+    <peak height="3950"/>
+  </country>
+  <country name="Tajikistan">
+    <geo>
+      <mountain name="Pik Karl-Marx" height="6726"/>
+      <mountain name="Pik Kommunizma" height="7494"/>
+      <mountain name="Pik Lenina" height="7134"/>
+      <mountain name="Pik Moskva" height="6785"/>
+      <mountain name="Pik Revoluzija" height="6974"/>
+    </geo>
+    <peak height="7494"/>
+  </country>
+  <country name="Tanzania">
+    <geo>
+      <mountain name="Meru" height="4567"/>
+      <mountain name="Kilimanjaro" height="5895"/>
+      <mountain name="Mawenzi" height="5148"/>
+      <island name="Pemba">
+        <coordinates latitude="-5.2" longitude="39.7"/>
+      </island>
+      <island name="Sansibar">
+        <coordinates latitude="-6.1" longitude="39.3"/>
+      </island>
+    </geo>
+    <peak height="5895"/>
+  </country>
+  <country name="Thailand">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Timor-Leste">
+    <geo>
+      <mountain name="Tatamailau" height="2963"/>
+      <island name="Timor">
+        <coordinates latitude="-9.2" longitude="124.9"/>
+      </island>
+    </geo>
+    <peak height="2963"/>
+  </country>
+  <country name="Togo">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Tonga">
+    <geo>
+      <island name="Tongatapu">
+        <coordinates latitude="-21.2" longitude="-175.15"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Trinidad and Tobago">
+    <geo>
+      <island name="Tobago">
+        <coordinates latitude="11.25" longitude="-60.7"/>
+      </island>
+      <island name="Trinidad">
+        <coordinates latitude="10.4" longitude="-61.35"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Tunisia">
+    <geo>
+      <desert name="Grand Erg Est" area="150000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Turkey">
+    <geo>
+      <mountain name="Ararat" height="5165"/>
+      <mountain name="Demirkazik" height="3756"/>
+    </geo>
+    <peak height="5165"/>
+  </country>
+  <country name="Turkmenistan">
+    <geo>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Turks and Caicos Islands">
+    <geo>
+      <island name="Grand Turk">
+        <coordinates latitude="21.28" longitude="-71.08"/>
+      </island>
+      <island name="North Caicos">
+        <coordinates latitude="22.1" longitude="-72.1"/>
+      </island>
+      <island name="Providenciales">
+        <coordinates latitude="22" longitude="-72.3"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Tuvalu">
+    <geo>
+      <island name="Fongafale">
+        <coordinates latitude="-8.5" longitude="179.1"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Uganda">
+    <geo>
+      <mountain name="Elgon" height="4321"/>
+      <mountain name="Ruwenzori" height="5109"/>
+    </geo>
+    <peak height="5109"/>
+  </country>
+  <country name="Ukraine">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="United Arab Emirates">
+    <geo>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <desert name="Rub Al Chali" area="780000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="United Kingdom">
+    <geo>
+      <mountain name="Ben Nevis" height="1344"/>
+      <island name="Shetland Mainland">
+        <coordinates latitude="60.3" longitude="-1.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Arran">
+        <coordinates latitude="55.3" longitude="-5.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Islay">
+        <coordinates latitude="62.1" longitude="7"/>
+      </island>
+      <island name="Jura">
+        <coordinates latitude="56" longitude="-6"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Anglesey">
+        <coordinates latitude="53.3" longitude="-4.4"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Bishop Rock">
+        <coordinates latitude="50" longitude="-6.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Lundy">
+        <coordinates latitude="51" longitude="-4.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Mull">
+        <coordinates latitude="56.3" longitude="6"/>
+      </island>
+      <island name="Rhum">
+        <coordinates latitude="57" longitude="-6.3"/>
+      </island>
+      <island name="Skye">
+        <coordinates latitude="57.3" longitude="-6.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Isle of Wight">
+        <coordinates latitude="50.6" longitude="-1.3"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Ireland">
+        <coordinates latitude="53.5" longitude="-7.8"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Hoy">
+        <coordinates latitude="59.1" longitude="-3.2"/>
+      </island>
+      <island name="Orkney Mainland">
+        <coordinates latitude="59" longitude="-3.1"/>
+      </island>
+      <island name="South Ronaldsay">
+        <coordinates latitude="58.6" longitude="-3.1"/>
+      </island>
+      <island name="Westray">
+        <coordinates latitude="59.4" longitude="-3"/>
+      </island>
+      <island name="Barra">
+        <coordinates latitude="57" longitude="-7.7"/>
+      </island>
+      <island name="Benbecula">
+        <coordinates latitude="57.45" longitude="-7.3"/>
+      </island>
+      <island name="Lewis and Harris">
+        <coordinates latitude="57.9" longitude="-6.8"/>
+      </island>
+      <island name="North Uist">
+        <coordinates latitude="57.4" longitude="-7.1"/>
+      </island>
+      <island name="South Uist">
+        <coordinates latitude="57.2" longitude="-7.2"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+      <island name="Great Britain">
+        <coordinates latitude="53" longitude="-1.5"/>
+      </island>
+    </geo>
+    <peak height="1344"/>
+  </country>
+  <country name="United States">
+    <geo>
+      <mountain name="Mt Blackburn" height="4996"/>
+      <mountain name="Mt Bona" height="5005"/>
+      <mountain name="Mt Fairweather" height="4663"/>
+      <mountain name="Mt McKinley" height="6193"/>
+      <mountain name="Mt Redoubt" height="3108"/>
+      <mountain name="Mt St.Elias" height="5489"/>
+      <mountain name="Humphreys Peak" height="3850"/>
+      <mountain name="Boundary Peak" height="4006"/>
+      <mountain name="Mt Whitney" height="4418"/>
+      <mountain name="Mt Elbert" height="4401"/>
+      <mountain name="Pikes Peak" height="4302"/>
+      <mountain name="Haleakala" height="3055"/>
+      <mountain name="Mauna Kea" height="4214"/>
+      <mountain name="Mauna Loa" height="4170"/>
+      <mountain name="Borah Peak" height="3859"/>
+      <mountain name="Granite Peak" height="3901"/>
+      <mountain name="Boundary Peak" height="4006"/>
+      <mountain name="Mt Washington" height="1917"/>
+      <mountain name="Wheeler Peak" height="4011"/>
+      <mountain name="Mt Marcy" height="1629"/>
+      <mountain name="Mt Mitchell" height="2037"/>
+      <mountain name="Mt Hood" height="3424"/>
+      <mountain name="Harney Peak" height="2207"/>
+      <mountain name="Clingmans Dome" height="2025"/>
+      <mountain name="Guadalupe Peak" height="2667"/>
+      <mountain name="Kings Peak" height="4123"/>
+      <mountain name="Mt Adams" height="3743"/>
+      <mountain name="Mt Rainier" height="4392"/>
+      <mountain name="Gannett Peak" height="4207"/>
+      <desert name="Chihuahua" area="360000"/>
+      <desert name="Chihuahua" area="360000"/>
+      <desert name="Chihuahua" area="360000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Colorado Plateau" area="337000"/>
+      <desert name="Great Basin" area="300000"/>
+      <desert name="Great Basin" area="300000"/>
+      <desert name="Great Basin" area="300000"/>
+      <desert name="Great Salt Lake Desert" area="10360"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Mojave" area="57000"/>
+      <desert name="Owyhee" area="36000"/>
+      <desert name="Owyhee" area="36000"/>
+      <desert name="Owyhee" area="36000"/>
+      <desert name="Sonora" area="320000"/>
+      <desert name="Sonora" area="320000"/>
+      <island name="San Clemente Island">
+        <coordinates latitude="33" longitude="-118.5"/>
+      </island>
+      <island name="San Miguel Island">
+        <coordinates latitude="33" longitude="-120.4"/>
+      </island>
+      <island name="Santa Catalina Island">
+        <coordinates latitude="33.2" longitude="-118.2"/>
+      </island>
+      <island name="Santa Cruz Island">
+        <coordinates latitude="34" longitude="-119.7"/>
+      </island>
+      <island name="Santa Rosa Island">
+        <coordinates latitude="34" longitude="-120.1"/>
+      </island>
+      <island name="Hawaii">
+        <coordinates latitude="19.6" longitude="-155.5"/>
+      </island>
+      <island name="Kauai">
+        <coordinates latitude="22" longitude="-159.5"/>
+      </island>
+      <island name="Lanai">
+        <coordinates latitude="20.5" longitude="-157"/>
+      </island>
+      <island name="Maui">
+        <coordinates latitude="20.7" longitude="-156.3"/>
+      </island>
+      <island name="Molokai">
+        <coordinates latitude="21.1" longitude="-157"/>
+      </island>
+      <island name="Niihau">
+        <coordinates latitude="21.9" longitude="-160.1"/>
+      </island>
+      <island name="Oahu">
+        <coordinates latitude="21.5" longitude="-158"/>
+      </island>
+      <island name="Martha s Vineyard">
+        <coordinates latitude="41.4" longitude="-70.6"/>
+      </island>
+      <island name="Nantucket">
+        <coordinates latitude="41.5" longitude="-70.1"/>
+      </island>
+      <island name="Long Island">
+        <coordinates latitude="40.8" longitude="-73.3"/>
+      </island>
+    </geo>
+    <peak height="6193"/>
+  </country>
+  <country name="Uruguay">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Uzbekistan">
+    <geo>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Karakum" area="400000"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Kysylkum" area="200000"/>
+      <desert name="Ust Urt" area="180000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Vanuatu">
+    <geo>
+      <island name="Efate">
+        <coordinates latitude="-17.8" longitude="168.4"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Venezuela">
+    <geo>
+      <mountain name="Pico Bolivar" height="4981"/>
+    </geo>
+    <peak height="4981"/>
+  </country>
+  <country name="Vietnam">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Virgin Islands">
+    <geo>
+      <island name="Saint Thomas">
+        <coordinates latitude="18.3" longitude="-64.9"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Wallis and Futuna">
+    <geo>
+      <island name="Futuna">
+        <coordinates latitude="-14.3" longitude="-178.1"/>
+      </island>
+      <island name="Uvea">
+        <coordinates latitude="-13.16" longitude="-176.2"/>
+      </island>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="West Bank">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+  <country name="Western Sahara">
+    <geo>
+      <desert name="Saguia el-Hamra" area="25000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Yemen">
+    <geo>
+      <mountain name="Jabal Shuayb" height="3760"/>
+      <desert name="Rub Al Chali" area="780000"/>
+      <island name="Sokotra">
+        <coordinates latitude="12.5" longitude="53.9"/>
+      </island>
+    </geo>
+    <peak height="3760"/>
+  </country>
+  <country name="Zaire">
+    <geo>
+      <mountain name="Karisimbi" height="4507"/>
+      <mountain name="Ruwenzori" height="5109"/>
+    </geo>
+    <peak height="5109"/>
+  </country>
+  <country name="Zambia">
+    <geo>
+      <desert name="Kalahari" area="1200000"/>
+      <desert name="Kalahari" area="1200000"/>
+    </geo>
+    <peak height="-1"/>
+  </country>
+  <country name="Zimbabwe">
+    <geo/>
+    <peak height="-1"/>
+  </country>
+</ex2>
+

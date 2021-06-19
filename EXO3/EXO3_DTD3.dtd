@@ -1,0 +1,8 @@
+<!ELEMENT ex3 (province+)>
+
+<!ELEMENT province (montagne*)>
+<!ATTLIST province name CDATA #REQUIRED>
+
+<!ELEMENT montagne EMPTY>
+<!ATTLIST montagne name CDATA #REQUIRED altitude CDATA #REQUIRED latitude CDATA #REQUIRED longitude CDATA #REQUIRED>
+

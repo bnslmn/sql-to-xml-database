@@ -1,0 +1,7 @@
+<!ELEMENT ex3 (country+)>
+
+<!ELEMENT country (organization*)>
+<!ATTLIST country name CDATA #REQUIRED>
+
+<!ELEMENT organization EMPTY>
+<!ATTLIST organization name CDATA #REQUIRED date CDATA #REQUIRED>

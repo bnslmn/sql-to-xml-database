@@ -1,0 +1,7 @@
+<!ELEMENT ex3 (country+)>
+
+<!ELEMENT country (riviere*)>
+<!ATTLIST country name CDATA #REQUIRED>
+
+<!ELEMENT riviere EMPTY>
+<!ATTLIST riviere name CDATA #REQUIRED>

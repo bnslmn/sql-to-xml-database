@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE ex3 SYSTEM "EXO3_DTD1.dtd">
+<ex3>
+  <continent name="America">
+    <country name="Antigua and Barbuda" population="65647"/>
+    <country name="Aruba" population="103065"/>
+    <country name="Anguilla" population="14436"/>
+    <country name="Barbados" population="257030"/>
+    <country name="Bolivia" population="7165257"/>
+    <country name="Brazil" population="162661214"/>
+    <country name="Bahamas" population="259367"/>
+    <country name="British Virgin Islands" population="24491"/>
+    <country name="Belize" population="219296"/>
+    <country name="Cuba" population="10951334"/>
+    <country name="Cayman Islands" population="49035"/>
+    <country name="Canada" population="28820671"/>
+    <country name="Colombia" population="36813161"/>
+    <country name="Costa Rica" population="3463083"/>
+    <country name="Dominican Republic" population="8088881"/>
+    <country name="Ecuador" population="11466291"/>
+    <country name="El Salvador" population="5828987"/>
+    <country name="Falkland Islands" population="3140"/>
+    <country name="French Guiana" population="151187"/>
+    <country name="Guatemala" population="11277614"/>
+    <country name="Greenland" population="58203"/>
+    <country name="Guadeloupe" population="407768"/>
+    <country name="Guyana" population="712091"/>
+    <country name="Honduras" population="5605193"/>
+    <country name="Jamaica" population="2595275"/>
+    <country name="Saint Kitts and Nevis" population="41369"/>
+    <country name="Martinique" population="399151"/>
+    <country name="Mexico" population="95772462"/>
+    <country name="Montserrat" population="5097"/>
+    <country name="Netherlands Antilles" population="227049"/>
+    <country name="Nicaragua" population="4272352"/>
+    <country name="Panama" population="2655094"/>
+    <country name="Peru" population="24523408"/>
+    <country name="Puerto Rico" population="3971020"/>
+    <country name="Paraguay" population="5504146"/>
+    <country name="Argentina" population="34672997"/>
+    <country name="Chile" population="14333258"/>
+    <country name="Haiti" population="6731539"/>
+    <country name="Uruguay" population="3238952"/>
+    <country name="Saint Martin" population="29820"/>
+    <country name="Suriname" population="436418"/>
+    <country name="Saint Pierre and Miquelon" population="6809"/>
+    <country name="Trinidad and Tobago" population="1272385"/>
+    <country name="Turks and Caicos Islands" population="22942"/>
+    <country name="United States" population="266476278"/>
+    <country name="Virgin Islands" population="97120"/>
+    <country name="Dominica" population="82926"/>
+    <country name="Grenada" population="94961"/>
+    <country name="Saint Lucia" population="157862"/>
+    <country name="Saint Vincent and the Grenadines" population="118344"/>
+    <country name="Venezuela" population="21983188"/>
+  </continent>
+  <continent name="Australia/Oceania">
+    <country name="American Samoa" population="65628"/>
+    <country name="Australia" population="18260863"/>
+    <country name="Bermuda" population="67837"/>
+    <country name="Cocos Islands" population="596"/>
+    <country name="Cook Islands" population="11870"/>
+    <country name="Fiji" population="782381"/>
+    <country name="French Polynesia" population="287032"/>
+    <country name="Micronesia" population="125377"/>
+    <country name="Guam" population="178430"/>
+    <country name="Saint Helena" population="7637"/>
+    <country name="Kiribati" population="80919"/>
+    <country name="Marshall Islands" population="58363"/>
+    <country name="Nauru" population="10273"/>
+    <country name="New Caledonia" population="227436"/>
+    <country name="Niue" population="1398"/>
+    <country name="Northern Mariana Islands" population="88662"/>
+    <country name="Norfolk Island" population="2209"/>
+    <country name="New Zealand" population="3547983"/>
+    <country name="Palau" population="16952"/>
+    <country name="Pitcairn Islands" population="48"/>
+    <country name="Papua New Guinea" population="4394537"/>
+    <country name="Reunion" population="679198"/>
+    <country name="Indonesia" population="206611600"/>
+    <country name="Solomon Islands" population="412902"/>
+    <country name="Tonga" population="106466"/>
+    <country name="Tuvalu" population="10146"/>
+    <country name="Vanuatu" population="177504"/>
+    <country name="Wallis and Futuna" population="15289"/>
+    <country name="Samoa" population="214384"/>
+    <country name="Christmas Island" population="1402"/>
+  </continent>
+  <continent name="Europe">
+    <country name="Austria" population="8023244"/>
+    <country name="Albania" population="3249136"/>
+    <country name="Andorra" population="72766"/>
+    <country name="Belgium" population="10170241"/>
+    <country name="Bulgaria" population="8612757"/>
+    <country name="Bosnia and Herzegovina" population="2656240"/>
+    <country name="Belarus" population="10415973"/>
+    <country name="Switzerland" population="7207060"/>
+    <country name="Cyprus" population="744609"/>
+    <country name="Czech Republic" population="10321120"/>
+    <country name="Germany" population="83536115"/>
+    <country name="Denmark" population="5249632"/>
+    <country name="Spain" population="39181114"/>
+    <country name="Estonia" population="1459428"/>
+    <country name="France" population="58317450"/>
+    <country name="Faroe Islands" population="43857"/>
+    <country name="Liechtenstein" population="31122"/>
+    <country name="United Kingdom" population="58489975"/>
+    <country name="Guernsey" population="62920"/>
+    <country name="Jersey" population="87848"/>
+    <country name="Man" population="73837"/>
+    <country name="Gibraltar" population="28765"/>
+    <country name="Greece" population="10538594"/>
+    <country name="Hungary" population="10002541"/>
+    <country name="Croatia" population="5004112"/>
+    <country name="Italy" population="57460274"/>
+    <country name="Ireland" population="3566833"/>
+    <country name="Iceland" population="270292"/>
+    <country name="Kosovo" population="1804838"/>
+    <country name="Luxembourg" population="415870"/>
+    <country name="Lithuania" population="3646041"/>
+    <country name="Latvia" population="2468982"/>
+    <country name="Malta" population="375576"/>
+    <country name="Monaco" population="31719"/>
+    <country name="Moldova" population="4463847"/>
+    <country name="Macedonia" population="2104035"/>
+    <country name="Montenegro" population="672180"/>
+    <country name="Norway" population="4383807"/>
+    <country name="Netherlands" population="15568034"/>
+    <country name="Portugal" population="9865114"/>
+    <country name="Poland" population="38642565"/>
+    <country name="Russia" population="148178487"/>
+    <country name="Romania" population="21657162"/>
+    <country name="San Marino" population="24521"/>
+    <country name="Sweden" population="8900954"/>
+    <country name="Finland" population="5105230"/>
+    <country name="Slovakia" population="5374362"/>
+    <country name="Slovenia" population="1951443"/>
+    <country name="Serbia" population="7379339"/>
+    <country name="Svalbard" population="2116"/>
+    <country name="Turkey" population="62484478"/>
+    <country name="Ukraine" population="50864009"/>
+    <country name="Holy See" population="840"/>
+  </continent>
+  <continent name="Africa">
+    <country name="Angola" population="10342899"/>
+    <country name="Benin" population="5709529"/>
+    <country name="Burkina Faso" population="10623323"/>
+    <country name="Burundi" population="5943057"/>
+    <country name="Cameroon" population="14261557"/>
+    <country name="Cote dIvoire" population="14762445"/>
+    <country name="Comoros" population="569237"/>
+    <country name="Cape Verde" population="449066"/>
+    <country name="Djibouti" population="427642"/>
+    <country name="Algeria" population="29183032"/>
+    <country name="Kenya" population="28176686"/>
+    <country name="Tanzania" population="29058470"/>
+    <country name="Uganda" population="20158176"/>
+    <country name="Eritrea" population="3427883"/>
+    <country name="Egypt" population="63575107"/>
+    <country name="Ethiopia" population="57171662"/>
+    <country name="Gabon" population="1172798"/>
+    <country name="Ghana" population="17698271"/>
+    <country name="Guinea-Bissau" population="1151330"/>
+    <country name="Equatorial Guinea" population="431282"/>
+    <country name="Libya" population="5445436"/>
+    <country name="Liberia" population="2109789"/>
+    <country name="Lesotho" population="1970781"/>
+    <country name="Morocco" population="29779156"/>
+    <country name="Mayotte" population="223765"/>
+    <country name="Mozambique" population="17877927"/>
+    <country name="Mauritius" population="1140256"/>
+    <country name="Malawi" population="9452844"/>
+    <country name="Namibia" population="1677243"/>
+    <country name="Botswana" population="1477630"/>
+    <country name="Central African Republic" population="3274426"/>
+    <country name="Congo" population="2527841"/>
+    <country name="Guinea" population="7411981"/>
+    <country name="Mauritania" population="2336048"/>
+    <country name="Madagascar" population="13670507"/>
+    <country name="Mali" population="9653261"/>
+    <country name="Niger" population="9113001"/>
+    <country name="South Africa" population="41743459"/>
+    <country name="Togo" population="4570530"/>
+    <country name="Rwanda" population="6853359"/>
+    <country name="Swaziland" population="998730"/>
+    <country name="Senegal" population="9092749"/>
+    <country name="Somalia" population="9639151"/>
+    <country name="Sao Tome and Principe" population="144128"/>
+    <country name="Sudan" population="31547543"/>
+    <country name="Seychelles" population="77575"/>
+    <country name="Chad" population="6976845"/>
+    <country name="Tunisia" population="9019687"/>
+    <country name="Gambia" population="1204984"/>
+    <country name="Sierra Leone" population="4793121"/>
+    <country name="Nigeria" population="103912489"/>
+    <country name="Western Sahara" population="222631"/>
+    <country name="Zambia" population="9159072"/>
+    <country name="Zaire" population="46498539"/>
+    <country name="Zimbabwe" population="11271314"/>
+  </continent>
+  <continent name="Asia">
+    <country name="Afghanistan" population="22664136"/>
+    <country name="Armenia" population="3463574"/>
+    <country name="Azerbaijan" population="7676953"/>
+    <country name="Bangladesh" population="123062800"/>
+    <country name="Bhutan" population="1822625"/>
+    <country name="Bahrain" population="590042"/>
+    <country name="Brunei" population="299939"/>
+    <country name="Sri Lanka" population="18553074"/>
+    <country name="Egypt" population="63575107"/>
+    <country name="Gaza Strip" population="813332"/>
+    <country name="Georgia" population="5219810"/>
+    <country name="Hong Kong" population="7055071"/>
+    <country name="Israel" population="5421995"/>
+    <country name="India" population="952107694"/>
+    <country name="Iran" population="66094264"/>
+    <country name="Iraq" population="21422292"/>
+    <country name="Japan" population="125449703"/>
+    <country name="Jordan" population="4212152"/>
+    <country name="Cambodia" population="10861218"/>
+    <country name="Kazakstan" population="16916463"/>
+    <country name="Kyrgyzstan" population="4529648"/>
+    <country name="Kuwait" population="1950047"/>
+    <country name="Laos" population="4975772"/>
+    <country name="Macau" population="496837"/>
+    <country name="Malaysia" population="19962893"/>
+    <country name="Mongolia" population="2496617"/>
+    <country name="Maldives" population="270758"/>
+    <country name="Myanmar" population="45975625"/>
+    <country name="Nepal" population="22094033"/>
+    <country name="North Korea" population="23904124"/>
+    <country name="Oman" population="2186548"/>
+    <country name="Pakistan" population="129275660"/>
+    <country name="Qatar" population="547761"/>
+    <country name="Russia" population="148178487"/>
+    <country name="Taiwan" population="21465881"/>
+    <country name="Indonesia" population="206611600"/>
+    <country name="Lebanon" population="3776317"/>
+    <country name="South Korea" population="45482291"/>
+    <country name="Philippines" population="74480848"/>
+    <country name="Saudi Arabia" population="19409058"/>
+    <country name="Singapore" population="3396924"/>
+    <country name="Syria" population="15608648"/>
+    <country name="Tajikistan" population="5916373"/>
+    <country name="Thailand" population="58851357"/>
+    <country name="China" population="1210004956"/>
+    <country name="Timor-Leste" population="1131612"/>
+    <country name="Turkmenistan" population="4149283"/>
+    <country name="Turkey" population="62484478"/>
+    <country name="United Arab Emirates" population="3057337"/>
+    <country name="Uzbekistan" population="23418381"/>
+    <country name="Vietnam" population="73976973"/>
+    <country name="West Bank" population="1427741"/>
+    <country name="Yemen" population="13483178"/>
+  </continent>
+</ex3>
+
